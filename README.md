@@ -58,8 +58,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xing403&show_icons=true&count_private=true&hide_border=true" align="center" /></div>    
 <br/> 
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=xing403&&style=flat-square" align="center" /> </div>     
+<div align="center"><img src="https://komarev.com/ghpvc/?username=xing403&&style=flat-square" align="center" /> </div>      
+<br/> 
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xing403&theme=xcode" /> </div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xing403&theme=xcode" /> </div> 
+<br/> 
 
 <div align="center"> <img src="https://profile-counter.glitch.me/xing403/count.svg" /> </div>
