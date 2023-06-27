@@ -2,6 +2,11 @@
     <img src="https://avatars.githubusercontent.com/u/74746021" align="center" height="" width="200" style="border-radius: 50%;" /> </div>       
 <h3 align="center">I'm XingRuYu, a student from China 🚀</h3> 
 
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=xing403&&style=flat-square" align="center" />
+</div>
+<br/> 
+
 - 🌱 I’m currently learning Vite and  try examples that interest you
 
 - 🔗 Personal website [ilstudy.vip](http://ilstudy.vip)      
@@ -54,9 +59,6 @@
 ## Github Stats   
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xing403&show_icons=true&count_private=true&hide_border=true" align="center" /></div>    
-<br/> 
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=xing403&&style=flat-square" align="center" /> </div>      
 <br/> 
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xing403&theme=xcode" /> </div> 
