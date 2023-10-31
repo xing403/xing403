@@ -2,7 +2,9 @@
     <img src="https://avatars.githubusercontent.com/u/74746021" align="center" height="" width="200" style="border-radius: 50%;" /> </div>
 <h3 align="center">I'm XingRuYu, a student from China 🚀</h3>
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=409effff&background=00000080&width=610&lines=maintain+interests+and+hobbies." />
+	<a href="https://github.com/xing403">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CDD9E5&background=22272E00&center=true&vCenter=true&random=false&width=610&lines=maintain+interests+and+hobbies." alt="xing403" />
+	</a>
 </div>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=xing403&&style=flat-square" align="center" />
