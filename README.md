@@ -1,5 +1,5 @@
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/74746021" align="center" height="" width="200" style="border-radius: 50%;" /> </div>
+<div align="center"> 
+	<img src="https://avatars.githubusercontent.com/u/74746021" align="center" height="" width="200" style="border-radius: 50%;" /> </div>
 <h3 align="center">I'm XingRuYu, a student from China 🚀</h3>
 <div align="center">
 	<a href="https://github.com/xing403">
@@ -10,11 +10,17 @@
 	<img src="https://komarev.com/ghpvc/?username=xing403&&style=flat-square" align="center" />
 </div>
 <br/> 
+<div align="center">
+	<smap>
+		<a href="https://ilstudy.vip">blog</a> ⦁
+		<a href="http://schedule.ilstudy.vip">schedule</a> ⦁
+		<a href="http://todo.ilstudy.vip">todo</a> ⦁
+		<a href="https://avatar.ilstudy.vip">avatar</a>
+	</smap>
+</div>
 
 - 🌱 I’m currently learning Vite and  try examples that interest you
-
 - 🔗 Personal website [ilstudy.vip](http://ilstudy.vip)      
-     
 
 ## My Skill Set
 
