@@ -15,7 +15,8 @@
 		<a href="https://ilstudy.vip">blog</a> ⦁
 		<a href="http://schedule.ilstudy.vip">schedule</a> ⦁
 		<a href="http://todo.ilstudy.vip">todo</a> ⦁
-		<a href="https://avatar.ilstudy.vip">avatar</a>
+		<a href="https://avatar.ilstudy.vip">avatar</a> ⦁
+		<a href="http://games.ilstudy.vip">games</a>
 	</smap>
 </div>
 
