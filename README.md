@@ -31,6 +31,7 @@
 			<h3> Frontend</h3>
             <div align="center">
               <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+              <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  </a>
             </div>
           </td>
         <td valign="top" width="33%">
